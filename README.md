@@ -1,5 +1,5 @@
 # Introduction
-As of [Feb 2023, the Monthly Economic Report]<https://www.eveonline.com/news/view/monthly-economic-report-february-2023> contains a `kill_dump.json` file. This file contains a list of all kills that happened in EVE Online Tranquility over the last month. This includes the battle_id associated with each kill ID, and participating characters/ship types.
+As of [Feb 2023, the Monthly Economic Report](https://www.eveonline.com/news/view/monthly-economic-report-february-2023) contains a `kill_dump.json` file. This file contains a list of all kills that happened in EVE Online Tranquility over the last month. This includes the battle_id associated with each kill ID, and participating characters/ship types.
 
 Its encoraged that those interested, can read this file and run analysis on it.
 
