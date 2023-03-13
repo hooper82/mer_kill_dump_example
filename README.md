@@ -5,6 +5,15 @@ Its encoraged that those interested, can read this file and run analysis on it.
 
 This is an example python script, reading the file and looking at the participiaton of different ship types in larger battles.
 
+## How-To
+After cloneing this repository, you'll need to:
+1. Install required packages : `pip install -r requirements.txt`
+1. Download the MER Zip, and extract the `kill_dump.json` file into the same directory as `main.py`
+1. Download the required csvs from the EVE Static Dump (details below) and put them in the same directory as the `main.py` file.
+1. Run : `python main.py`
+
+I recommend you use a virtualenv rather than messing up your base python install. But thats beyond the scope of this document.
+
 ## Static Dump Source
 Get the following files here : https://www.fuzzwork.co.uk/dump/latest/
  * `invTypes.csv`
